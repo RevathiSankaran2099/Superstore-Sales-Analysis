@@ -24,3 +24,18 @@ This project analyses the Kaggle Superstore dataset to uncover insights on sales
 - Consumer segment drives the most orders but Corporate yields better profit margins
 
 ## 📁 Repository Structure
+```
+├── Git Hub Superstore Data/
+│   ├── Dashboards/
+│   │   ├── Sales and Revenue.png
+│   │   ├── Profit and Loss.png
+│   │   ├── Customer Segmentation.png
+│   │   ├── Operational Insights.png
+│   │   └── superstore power bi.pbix
+│   ├── Query results/
+│   │   ├── Q1-Q15 screenshots and CSVs
+│   └── superstore Dataset/
+│       └── Sample - Superstore.csv
+└── superstore_analysis.sql
+```
+
